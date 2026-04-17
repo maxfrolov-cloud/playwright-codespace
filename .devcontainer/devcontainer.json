@@ -1,5 +1,5 @@
 {
   "name": "Playwright Environment",
-  "image": "mcr.microsoft.com/playwright:v1.42.1-jammy",
+  "image": "mcr.microsoft.com/playwright:v1.59.1-jammy",
   "postCreateCommand": "npm install"
 }
